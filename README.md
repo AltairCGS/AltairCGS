@@ -1,4 +1,4 @@
-<div align="center">
+﻿<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F3A5F,50:23648A,100:2E5C8A&height=210&section=header&text=Jhan%20Galvis&fontSize=54&fontColor=FFFFFF&fontAlignY=36&desc=Desarrollador%20de%20software&descSize=18&descAlignY=57&descColor=C9D8E6&animation=fadeIn" width="100%" alt="Jhan Galvis" />
 
@@ -51,7 +51,7 @@ Me gusta construir software que se use de verdad. Trabajo sobre todo en **aplica
 <div align="center">
 
 <a href="https://github.com/AltairCGS/BibloApp">
-  <img src="assets/bibloapp-panel.png" alt="Panel principal de BibloApp" width="860" />
+  <img src="assets/panel-principal.png" alt="Panel principal de BibloApp" width="860" />
 </a>
 
 ### BibloApp
