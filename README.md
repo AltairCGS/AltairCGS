@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F3A5F,50:23648A,100:2E5C8A&height=210&section=header&text=Jhan%20Galvis&fontSize=54&fontColor=FFFFFF&fontAlignY=36&desc=Desarrollador%20de%20software&descSize=18&descAlignY=57&descColor=C9D8E6&animation=fadeIn" width="100%" alt="Jhan Galvis" />
 
 <a href="https://github.com/AltairCGS">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1200&color=2F81F7&center=true&vCenter=true&width=650&lines=Aplicaciones+de+escritorio+con+Python+y+PySide6;Datos+locales%2C+interfaces+claras%2C+pruebas+que+acompa%C3%B1an;Actualmente+construyendo+BibloApp" alt="Aplicaciones de escritorio con Python y PySide6" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2F81F7&center=true&vCenter=true&width=760&height=50&lines=Python+%C2%B7+PySide6+%C2%B7+SQLite;Aplicaciones+de+escritorio+con+datos+locales;Actualmente+construyendo+BibloApp" alt="Python, PySide6 y SQLite" />
 </a>
 
 </div>
@@ -119,11 +119,11 @@ Aplicación de escritorio para administrar catálogo, ejemplares, socios, prést
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-AltairCGS-1F3A5F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AltairCGS)
+[![Correo](https://img.shields.io/badge/jhangalvis422%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jhangalvis422@gmail.com)
 
-<!-- Cuando tengas los enlaces, descomenta y reemplaza:
+<!-- Cuando tengas LinkedIn, descomenta y reemplaza:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tu%20nombre-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TU-USUARIO/)
-[![Correo](https://img.shields.io/badge/Correo-tu%40correo.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu@correo.com)
 
 -->
 
